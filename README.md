@@ -15,11 +15,8 @@
   "fuentes": ["ISO", "NIST", "EU AI Act"]
 }# Audit-prompts
 Prompts 
-{
-  "reporte": "Riesgos principales identificados...",
-  "nivel_confianza": 90,
-  "recomendaciones": ["Alinear con ISO 31000", "Fortalecer SOC2"]
-}versión: "1.0"
+
+versión: "1.0"
 nombre: "Compliance-AI — Plataforma de Auditoría y Riesgo Multinorma"
 release_date: "2025-10-26"
 principio_rector: "Análisis verificable, auditable y defendible"
@@ -51,3 +48,8 @@ output_protocol:
   - "Siempre entregar en secciones claras."  
   - "Incluir tablas y métricas cuando sea necesario."  
   - "Resumir en un bloque ejecutivo para C-Level."
+{
+  "reporte": "Riesgos principales identificados...",
+  "nivel_confianza": 90,
+  "recomendaciones": ["Alinear con ISO 31000", "Fortalecer SOC2"]
+}
